@@ -5,7 +5,8 @@ import quandl
 #from matplotlib import style
 #style.use('ggplot')
 
-api_key = 'U4UJf9CcCsACxntm8gsz'
+#api key goes here
+api_key = ''
 #df = quandl.get('FMAC/HPI_AK', authtoken = api_key)
 #print df.head()
 
