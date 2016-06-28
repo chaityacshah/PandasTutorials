@@ -82,7 +82,7 @@ HPI_data.fillna(value = -99999, limit = 10, inplace = True)
 print HPI_data[['TX', 'TX1yr']].head()
 
 '''
-#used to calculate null values
+#used to calculate remaining null values
 print HPI_data.isnull().values.sum()
 '''
 
